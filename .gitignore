@@ -1,0 +1,16 @@
+# Ignore target directory
+/target/
+
+# Ignore Eclipse and IntelliJ IDEA project files
+/.classpath
+/.project
+/.settings/
+*.iml
+*.ipr
+*.iws
+
+# Ignore Maven build files
+mvn*.log
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
